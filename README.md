@@ -47,7 +47,7 @@ pip install -r requirements.txt
 5) Run the Application
 Start the application using the following command:
 
-python csv_file_uploader1.py
+python Main.py
 
 6) Access the Web App
 Open a web browser and go to http://localhost:5000 to use the application.

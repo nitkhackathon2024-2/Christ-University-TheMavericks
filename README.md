@@ -24,6 +24,7 @@ tkinter (for GUI)
 Clone the project repository to your local machine using the following commands:
 
 git clone https://github.com/nitkhackathon2024-2/Christ-University-TheMavericks.git
+
 cd Christ-University-TheMavericks
 
 2) Set Up Virtual Environment

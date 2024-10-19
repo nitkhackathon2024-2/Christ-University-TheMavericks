@@ -20,5 +20,39 @@ scikit-learn
 tkinter (for GUI)
 
 ## Instructions on running your project
+1) Clone the Repository
+Clone the project repository to your local machine using the following commands:
+
+git clone https://github.com/username/repository-name.git
+cd repository-name
+
+2) Set Up Virtual Environment
+Create a Python virtual environment and activate it:
+
+Create the environment:
+python -m venv pennylane-env
+
+3) Activate the environment:
+On Linux/macOS:
+source pennylane-env/bin/activate
+On Windows:
+pennylane-env\Scripts\activate
+
+4) Install Dependencies
+Install the required packages by running:
+
+pip install -r requirements.txt
+
+5) Run the Application
+Start the application using the following command:
+
+python csv_file_uploader1.py
+
+6) Access the Web App
+Open a web browser and go to http://localhost:5000 to use the application.
 
 ## References
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+https://www.kaggle.com/code/heidarmirhajisadati/advancedtechniques-for-detecting-credit-card-fraud
+https://www.kaggle.com/code/annastasy/anomaly-detection-credit-card-fraud
+Chat GPT

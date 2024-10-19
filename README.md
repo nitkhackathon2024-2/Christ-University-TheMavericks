@@ -54,6 +54,9 @@ Open a web browser and go to http://localhost:5000 to use the application.
 
 ## References
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 https://www.kaggle.com/code/heidarmirhajisadati/advancedtechniques-for-detecting-credit-card-fraud
+
 https://www.kaggle.com/code/annastasy/anomaly-detection-credit-card-fraud
+
 Chat GPT

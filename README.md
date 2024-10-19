@@ -23,8 +23,8 @@ tkinter (for GUI)
 1) Clone the Repository
 Clone the project repository to your local machine using the following commands:
 
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/nitkhackathon2024-2/Christ-University-TheMavericks.git
+cd Christ-University-TheMavericks
 
 2) Set Up Virtual Environment
 Create a Python virtual environment and activate it:
